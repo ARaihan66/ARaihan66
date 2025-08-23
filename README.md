@@ -9,10 +9,10 @@
 
 ### 🚀 About Me  
 - 🔭 I’m currently working on **Fusion ERP**  
-- 🌱 I’m currently learning **Advanced React Patterns, Next.js, and TypeScript**  
+- 🌱 I’m currently learning **Advanced Patterns of React 19, Next.js, and TypeScript**  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
 - 💬 Ask me about **React, JavaScript, TailwindCSS, and Frontend Development**  
-- 📫 How to reach me: **raihan.dev66@gmail.com**  
+- 📫 How to reach me: **md.abu.raihan7793@gmail.com**  
 - ⚡ Fun fact: I love solving problems and turning ideas into reality with code 🚀  
 
 ---
