@@ -3,7 +3,8 @@
 💻 *Specialized in React.js, Next.js, TypeScript & modern web technologies.*  
 
 📩 **Email me:** [aburaihancse066@gmail.com](mailto:aburaihancse066@gmail.com)  
-🤝 **Open for Collaboration, Projects & Freelance Opportunities.**  
+📱 **Phone:** +8801767013859, +8801704843884  
+🤝 **Open for Collaboration, Projects & Freelance Opportunities.**
 
 ---
 
