@@ -2,7 +2,7 @@
 **A passionate Frontend Engineer from Bangladesh 🇧🇩**  
 💻 *Specialized in React.js, Next.js, TypeScript & modern web technologies.*  
 
-📩 **Email me:** [aburaihancse066@gmail.com](mailto:aburaihancse066@gmail.com)  
+📩 **Email me:** [aburaihancse066@gmail.com](mailto:aburaihancse066@gmail.com) | [md.abu.raihan7793@gmail.com](mailto:md.abu.raihan7793@gmail.com)   
 📱 **Phone:** +8801767013859, +8801704843884  
 🤝 **Open for Collaboration, Projects & Freelance Opportunities.**
 
